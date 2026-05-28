@@ -12,3 +12,4 @@ Alpha-miner Docker image for SaladCloud deployment.
 
 3. Deploy on SaladCloud with image: `yourusername/prl-miner:latest`
 
+ 
