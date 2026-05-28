@@ -11,3 +11,4 @@ Alpha-miner Docker image for SaladCloud deployment.
 2. Push to `main` → GitHub Actions auto-builds and pushes to Docker Hub
 
 3. Deploy on SaladCloud with image: `yourusername/prl-miner:latest`
+
